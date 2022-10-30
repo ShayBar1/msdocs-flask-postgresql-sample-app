@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'shaybar'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_56A566DBF6F84667A627A6CB33CF65AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6150780D7F134C6E9375080E0FF4A2FB }}
